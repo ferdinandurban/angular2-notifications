@@ -100,6 +100,7 @@ import {NotificationsService} from './notifications.service';
             color: #fff;
             cursor: pointer;
             transition: all 0.5s;
+            font-family: 'RobotoLight'
         }
 
         .simple-notification .sn-title {
